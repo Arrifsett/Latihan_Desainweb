@@ -1,2 +1,2 @@
-# latih1
+# pemogramabn berbasis web
 latihan php
