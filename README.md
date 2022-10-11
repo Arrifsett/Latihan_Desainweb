@@ -1,2 +1,2 @@
-# pemogramabn berbasis web
+# pemograman berbasis web
 latihan php
